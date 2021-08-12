@@ -8,5 +8,7 @@ package com.wql.nb;
 public class Solution1 {
     public static void main(String[] args) {
         System.out.println("0:21 dcn 提交");
+        System.out.println("0:35 dcn分支上提交");
     }
+
 }
